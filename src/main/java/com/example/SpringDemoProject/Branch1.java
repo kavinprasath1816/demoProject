@@ -12,4 +12,8 @@ public class Branch1 {
     public void method3(){
 
     }
+
+    public void method4(){
+
+    }
 }
